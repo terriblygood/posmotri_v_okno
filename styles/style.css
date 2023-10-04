@@ -144,6 +144,10 @@ ol {
   text-align: center;
 }
 
+.search-form__label:hover .search-form__label-text {
+  text-decoration: underline;
+}
+
 .search-form__label-text {
   color: #FFF;
   font-family: 'Fira Sans Condensed', sans-serif;
